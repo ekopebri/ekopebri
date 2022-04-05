@@ -8,4 +8,4 @@
 Reserved
 
 ### Reach Me :
-[Facebook](https://www.facebook.com/ekopebri/) | [Linkedin](https://id.linkedin.com/in/ekopebri) | [Instagram @ekopebri](https://www.instagram.com/ekopebri/)
+[Facebook](https://www.facebook.com/ekopebri/) | [Linkedin](https://id.linkedin.com/in/ekopebri) | [Instagram](https://www.instagram.com/ekopebri/)
