@@ -2,7 +2,12 @@
 <img align="right" height="155px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ekopebri&layout=compact&theme=white">
 
 ### Current Roles 
-* Fullstack Engineer Java, PHP and ReactJS
+* Senior Software Engineer
+
+### Skills
+* Backend => Java (Spring Framework), NodeJS, Go, PHP
+* Frontend => ReactJS
+* Docker
 
 ### Portfolios 
 Reserved
