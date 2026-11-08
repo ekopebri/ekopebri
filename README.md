@@ -75,7 +75,7 @@ DevOps &amp; Cloud Engineer
 *Say hi on LinkedIn. Always up for a good platform conversation.*
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-E0A458?style=for-the-badge)](https://eko.pebrisulistiyo.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://id.linkedin.com/in/ekopebri)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eko-pebrisulistiyo/)
 
 *Thanks for stopping by.*
 
